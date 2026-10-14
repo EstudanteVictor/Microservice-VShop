@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "VShop.DiscountApi.Controllers.CouponController",
+    "Method": "GetDiscountCouponByCode",
+    "RelativePath": "api/Coupon/{couponCode}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "couponCode",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "VShop.DiscountApi.DTOs.CouponDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

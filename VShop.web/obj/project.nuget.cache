@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "AHNVbqMBDtc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Victor\\Desktop\\Estudo ASP.NET\\EstudoAPIDOTNET\\CriandoWebAPI\\VShop\\VShop.web\\VShop.web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.3.13\\microsoft.aspnetcore.authentication.2.3.13.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\10.0.12\\microsoft.aspnetcore.authentication.openidconnect.10.0.12.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.bcl.cryptography\\10.0.2\\microsoft.bcl.cryptography.10.0.2.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.23.0\\microsoft.identitymodel.abstractions.8.23.0.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.23.0\\microsoft.identitymodel.jsonwebtokens.8.23.0.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.identitymodel.logging\\8.23.0\\microsoft.identitymodel.logging.8.23.0.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.identitymodel.protocols\\8.19.2\\microsoft.identitymodel.protocols.8.19.2.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\8.19.2\\microsoft.identitymodel.protocols.openidconnect.8.19.2.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.23.0\\microsoft.identitymodel.tokens.8.23.0.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.23.0\\system.identitymodel.tokens.jwt.8.23.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.AspNetCore.Authentication não será removido. Este pacote está disponível automaticamente e não precisa ser referenciado explicitamente. Remova o item PackageReference.",
+      "projectPath": "C:\\Users\\Victor\\Desktop\\Estudo ASP.NET\\EstudoAPIDOTNET\\CriandoWebAPI\\VShop\\VShop.web\\VShop.web.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Victor\\Desktop\\Estudo ASP.NET\\EstudoAPIDOTNET\\CriandoWebAPI\\VShop\\VShop.web\\VShop.web.csproj",
+      "libraryId": "Microsoft.AspNetCore.Authentication",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

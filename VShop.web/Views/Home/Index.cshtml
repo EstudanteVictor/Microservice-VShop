@@ -1,0 +1,25 @@
+﻿@model IEnumerable<VShop.web.Models.ProductViewModel>
+<link rel="stylesheet" href="/css/product.css" asp-append-version="true"/>
+
+<form>
+    <div class="container row">
+        @foreach (var product in Model)
+            {
+                <div class="col-md-4 mb2">
+                    <a href="/Home/ProductDetails/@product.Id">
+                    <div class="card" style="width: 18rem;">
+                      <img class="card-img-top" src="/images/@product.ImageURL">
+                      <div class="card-body">
+                        <h5 class="card-title">
+                            @product.Name
+                        </h5>
+                        <p class="card-text">
+                            <b>@product.Price.ToString("C")</b>
+                        </p>
+                      </div>
+                    </div>    
+                    </a>
+                </div>
+            }
+        </div>
+</form>

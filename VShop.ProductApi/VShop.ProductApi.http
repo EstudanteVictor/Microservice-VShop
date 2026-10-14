@@ -1,0 +1,25 @@
+@VShop.ProductApi_HostAddress = http://localhost:5280
+
+GET {{VShop.ProductApi_HostAddress}}/api/categories
+Accept: application/json
+
+###
+GET {{VShop.ProductApi_HostAddress}}/api/categories/products
+
+###
+GET {{VShop.ProductApi_HostAddress}}/api/products
+
+###
+POST {{VShop.ProductApi_HostAddress}}/api/products
+content-type: application/json
+{
+  "Discription":"teste",
+  "Price":11.00,
+  "ImageUrl":"assa.jpg",
+  "Name":"name",
+  "Stock": 3,
+  "CategoryId": 1
+}
+
+###
+get {{VShop.ProductApi_HostAddress}}/api/products/3

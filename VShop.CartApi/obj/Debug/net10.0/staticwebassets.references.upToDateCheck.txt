@@ -1,0 +1,4 @@
+C:\Users\Victor\Desktop\Estudo ASP.NET\EstudoAPIDOTNET\CriandoWebAPI\VShop\VShop.ProductApi\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Victor\Desktop\Estudo ASP.NET\EstudoAPIDOTNET\CriandoWebAPI\VShop\VShop.ProductApi\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Victor\Desktop\Estudo ASP.NET\EstudoAPIDOTNET\CriandoWebAPI\VShop\VShop.ProductApi\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Victor\Desktop\Estudo ASP.NET\EstudoAPIDOTNET\CriandoWebAPI\VShop\VShop.ProductApi\obj\Debug\net10.0\staticwebassets.build.json

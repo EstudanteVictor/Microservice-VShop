@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "VShop.ProductApi\\VShop.ProductApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "VShop.web\\VShop.web.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "VShop.IdentityServer\\VShop.IdentityServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "VShop.CartApi\\VShop.CartApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "VShop.DiscountApi\\VShop.DiscountApi.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
